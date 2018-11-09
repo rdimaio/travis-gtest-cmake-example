@@ -8,7 +8,7 @@ This is an example setup of Travis-CI with cmake and google test. I finally got 
 # Where are things?
 `build/` is where code is built - like where executables are.  
 `ext/` includes gtest-1.6.0.
-`inlcude/` is where the header files are located (here: project1.h)
+`include/` is where the header files are located (here: project1.h)
 `src/` is where the source files are located (here: project1.cpp, main.cpp)
 `test/` is where the test source files are located (here: test_project1.cpp)
 Rest of code in root:  
